@@ -31,7 +31,7 @@ This project is a personal portfolio website developed as part of a course assig
 3. Image Slideshow Viewer
 
 ## Author
-Your Full Name
+Hanmu Xiong
 
 ## Live Website
 (https://personal-portfolio-backend.netlify.app/)
